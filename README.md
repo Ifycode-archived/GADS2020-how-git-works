@@ -9,4 +9,4 @@ Initial commit: Original apple_pie.txt file, no changes made to the file yet (ma
 ### README.md file commits | history: 
 Add readme & first readme edit: master branch.
 Lisa's version of the readme file: Created in Lisa branch.
-Merge branch lisa: 
+Second merge branch lisa: Conflict again, solved. 
