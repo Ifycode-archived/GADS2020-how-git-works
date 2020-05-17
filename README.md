@@ -13,3 +13,6 @@ Paolo Perrotta (an exceptional instructor) in his course "How git works" explain
 * Add readme file & first readme edit: master branch.
 * Lisa's version of the readme file: Created in Lisa branch.
 * Second merge branch lisa: Conflict again, solved.
+* Second readme edit: in master branch.
+* Merge branch 'master' into Lisa: no conflict, says merge made by 'recursive' strategy.
+* Lisa readme edit: lisa branch.
